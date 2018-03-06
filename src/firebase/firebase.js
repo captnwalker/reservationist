@@ -21,4 +21,5 @@ googleAuthProvider.setCustomParameters({
     prompt: 'select_account'
 });
 
+
 export { firebase, googleAuthProvider, database as default};
