@@ -34,6 +34,7 @@ render() {
 
             <div className="input-group">
 
+                {/* Search Field */}
                 <div className="input-group__item">
 
                     <input type="text" 
@@ -45,10 +46,10 @@ render() {
                         }}
                     />
             </div>
-
+                {/* Sort Selector */}
                 <div className="input-group__item">   
                 <select
-                    value={this.props.filters.sortBy}
+                        value={this.props.filters.sortBy}
                     onChange={(e) => {
 
                         if (e.target.value === 'date') {
@@ -63,6 +64,8 @@ render() {
                     <option value="amount">Time</option>
                 </select>
                 </div>
+
+                {/* Date Picker */}
                 <div className="input-group__item">
                     <DateRangePicker
                         startDate={this.props.filters.startDate}
