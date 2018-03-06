@@ -1,8 +1,8 @@
-# Reservationist
+# Reservationist-2
 
 ## Purpose of this Project
 
->Booking the best table in the house just got easier! **"Reservationist"** allows an individual user or company to record and retrive reservation information. Reservationist is built in React with SCSS styling which permits each individual element to occupy separate files making the product easily scalable and customizable by swapping components in and out as required for a wide variety of end users. Reservationist is fully responsive for a seamless mobile user experience. This version of the Reservationist has been customized for use in food service and restaurant environments.
+>Booking the best table in the house just got easier! **"Reservationist-2"** allows an individual user or company to record and retrive reservation information. Reservationist is built in React with SCSS styling which permits each individual element to occupy separate files making the product easily scalable and customizable by swapping components in and out as required for a wide variety of end users. Reservationist is fully responsive for a seamless mobile user experience. This version of the Reservationist has been customized for use in food service and restaurant environments.
 
 ### Table of Contents
 
@@ -24,7 +24,7 @@
 
 ### Deployment
 
- >The **[reservationist](https://reservationist1.herokuapp.com/ "reservationist")** has been deployed to a Heroku Dyno and can be used by following the link. (Note: *Resting Dyno's can often take 10 to 15 seconds to spin up on initial load and are not indicative of a sites true load speed.*)
+ >The **[reservationist-2](https://reservationist-2.herokuapp.com/ "reservationist-2")** has been deployed to a Heroku Dyno and can be used by following the link. (Note: *Resting Dyno's can often take 10 to 15 seconds to spin up on initial load and are not indicative of a sites true load speed.*)
 
 ### Screenshots of this Project
 
@@ -113,6 +113,7 @@ This app was built in React to be easily scalable. Other versions of this app ca
 * [Expense-Manager](https://github.com/captnwalker/expense-manager "Expense-Manager")
 * [Personal-Expense-Manager](https://github.com/captnwalker/personal-expense-manager "Personal-Expense-Manager")
 * [Reservationist](https://github.com/captnwalker/reservationist "Reservationist")
+* [Reservationist](https://github.com/captnwalker/reservationist-2 "Reservationist-2")
 * [General-Ledger](https://github.com/captnwalker/general-ledger "General-Ledger")
 
 #### License -  MIT
