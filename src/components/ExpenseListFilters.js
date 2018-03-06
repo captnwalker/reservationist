@@ -1,7 +1,7 @@
 import React from 'react';
 import { connect } from 'react-redux';
-import { DateRangePicker } from 'react-dates';
-import { setTextFilter, sortByDate, sortByAmount, setStartDate, setEndDate } from "../actions/filters"
+import { DateRangePicker, SingleDatePicker } from 'react-dates';
+import { setTextFilter, sortByDate, sortByAmount, setStartDate, setEndDate} from "../actions/filters"
 import TimePicker from 'rc-time-picker';
 
 class ExpenseListFilters extends React.Component {
@@ -73,13 +73,11 @@ render() {
                         showClearDates={true}
                         numberOfMonths={1}
                         isOutsideRange={() => false}
+                        minimumNights={0}
                     />
-                    </div>
-            </div>
-              
-        
-           
-            </div>
+                </div>               
+            </div>              
+        </div>
         );
     }
 };
