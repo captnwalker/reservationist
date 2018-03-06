@@ -32,7 +32,7 @@
 
 ![reservationist](https://raw.github.com/captnwalker/reservationist/master/screenshots/screensh0000t2.gif "reservationist")
 
-![reservationist](https://raw.github.com/captnwalker/reservationist/master/screenshots/screenshot5.png "reservationist")
+![reservationist](https://raw.github.com/captnwalker/reservationist/master/screenshots/screenshot5.jpg "reservationist")
 
 ### Technologies Utilized
 
