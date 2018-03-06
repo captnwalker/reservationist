@@ -35,7 +35,7 @@ export default class ExpenseForm extends React.Component {
         const amount = e.target.value;
         
         //if (!amount || amount.match(/^\d{1,}(\.\d{0,2})?$/)) {
-        
+        //if (!amount || amount.match(^([0 - 1][0 - 9] | [2][0 - 3]):([0 - 5][0 - 9])$)) {
             this.setState(() => ({ amount }));
         //}
     };
@@ -69,7 +69,7 @@ export default class ExpenseForm extends React.Component {
                 {this.state.error && <p className="form__error">{this.state.error}</p>}
                     <input
                         type="text"
-                        placeholder="Guests' Name"
+                        placeholder="Guests' Last Name - # in Party"
                         autoFocus
                         className="text-input"
                         value={this.state.description}

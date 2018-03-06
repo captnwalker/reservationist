@@ -68,6 +68,7 @@ render() {
                         startDate={this.props.filters.startDate}
                         endDate={this.props.filters.endDate}
                         onDatesChange={this.onDatesChange}
+                        //focused={this.state.calendarFocused}
                         focusedInput={this.state.calendarFocused}
                         onFocusChange={this.onFocusChange}
                         showClearDates={true}
