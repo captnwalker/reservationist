@@ -1,0 +1,33 @@
+.login-layout {
+    align-items: center;
+    background: url('/img/restaurant-1920x1200.jpg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    line-height: .6;
+    width: 100vw;
+}
+
+.login-layout__login {
+    // background: fade-out(rgb(251, 214, 0), .8);
+    // background: fade-out(rgb(255, 89, 89), .8);
+    background: fade-out(rgb(5, 140, 188),
+    .7);
+    border-radius: 15px;
+    border-style: ridge;
+    border-color: $brand;
+    border-width: .5rem ;
+    padding: $m-size $s-size;
+    text-align: center;
+    width: 35rem;
+}
+
+.logo {
+    font-family: 'Philosopher', sans-serif;
+    font-size: 4rem;
+    text-shadow: 1.3px 1.3px $off-white;
+    color: $brand;
+    margin: 0 0 $m-size 0;
+    line-height: 1;
+}
