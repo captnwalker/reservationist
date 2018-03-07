@@ -4,9 +4,6 @@
 
 >Booking the best table in the house just got easier! **"Reservationist-2"** allows an individual user or company to record and retrive reservation information. Reservationist is built in React with SCSS styling which permits each individual element to occupy separate files making the product easily scalable and customizable by swapping components in and out as required for a wide variety of end users. Reservationist is fully responsive for a seamless mobile user experience. This version of the Reservationist has been customized for use in food service and restaurant environments. As an added feature a link has been provided to our **[Expense-Manager](https://github.com/captnwalker/Expense-Manager "Expense-Manager")** product so they can easily take reservations or record invoices anywhere on their mobile device.
 
-, if a restaurant manager finds themselves in the back office entering invoices when a call for a reservation comes in, they can click the "Reservation" link and be taken to our [Reservationist-2](https://github.com/captnwalker/reservationist-2 "Reservationist-2") product, saving them a trip to the host desk to enter the reservation.
-
-
 ### Table of Contents
 
 - [Reservationist](#reservationist)
