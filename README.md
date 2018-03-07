@@ -1,4 +1,4 @@
-# Reservationist-2
+# Reservationist-2  :book: :memo:
 
 ## Purpose of this Project
 
